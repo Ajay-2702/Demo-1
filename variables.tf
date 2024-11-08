@@ -1,3 +1,8 @@
+#variable ""{
+#Description = ""
+#type= string 
+#}
+
 variable "accountid"{
 Description ="AWS account number"
 type = string 
@@ -13,3 +18,4 @@ variable "region"{
 Description = "Region name"
 type= string 
 }
+
