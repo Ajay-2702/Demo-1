@@ -1,3 +1,3 @@
-output "output" {
-value = resource.s3_bucket.name
-}
+//output "output" {
+//value = resource.s3_bucket.name
+//}
