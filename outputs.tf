@@ -1,3 +1,3 @@
 output "output" {
-value = module.s3_bucket.name
+value = resource.s3_bucket.name
 }
