@@ -1,21 +1,20 @@
 #variable ""{
-#Description = ""
+#description = ""
 #type= string 
 #}
 
 variable "accountid"{
-Description ="AWS account number"
+description ="AWS account number"
 type = string 
 default = "null"
 }
 
 variable "serviceName"{
-Description ="Service name"
+description ="Service name"
 type = string 
 }
 
 variable "region"{
-Description = "Region name"
+description = "Region name"
 type= string 
 }
-
